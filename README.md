@@ -1,6 +1,6 @@
 <header style="display: flex; flex-direction: column; justify-content: center; align-items: center">
-<h1>DiviSwap</h1>
-<img src="./images/main-logo.jpg" style="object-fit: cover; object-position: center; width: 300px;"/>
+<h1 align="center">DiviSwap</h1>
+<img align="center" src="./images/main-logo.jpg" style="object-fit: cover; object-position: center; width: 300px;"/>
 </header>
 <main>
 <ul style="display:flex; flex-direction: column; gap: .5rem; list-style: none; padding: 0; margin-top: 50px">
