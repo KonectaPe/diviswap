@@ -45,6 +45,13 @@
 </ul>
 <section id="description">
 <h2>🚀 Descripción del proyecto</h2>
+<p>Este proyecto es un desafio propuesto por Alura Latam Challenges, nuestro conversor de monedas <strong>DiviSwap</strong> realiza solicitudes a una API de tasas de cambio, filtra y muestra las monedas de interés para el usuario según la opción seleccionada en el menú de la aplicación de consola. Las monedas soportadas al momento incluyen el dolár (USD), peso argentino (ARS), real brasileño (BRL), peso colombiano (COP)</p>
+</section>
+<section id="state">
+<h2>🚀 Estado del proyecto</h2>
+<h4 align="center">
+:construction: Proyecto finalizado :construction:
+</h4>
 </section>
 </main>
 <footer>
