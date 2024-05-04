@@ -25,13 +25,13 @@
 </a>
 </li>
 <li>
-<a href="#state" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
+<a href="#projects" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
 <span>👍</span> 
 <span>Acceso al proyecto</span>
 </a>
 </li>
 <li>
-<a href="#state" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
+<a href="#technologies" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
 <span>👍</span> 
 <span>Tecnologías utilizadas</span>
 </a>
@@ -39,7 +39,7 @@
 <li>
 <a href="#state" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
 <span>👍</span> 
-<span>Desarrollador del proyecto</span>
+<span>Autor del proyecto</span>
 </a>
 </li>
 </ul>
@@ -63,7 +63,7 @@
 </ol>
 <img src="./images/diviswap.gif" alt="Funcionalidades de diviswap, conversión de monedas e historial de conversiones">
 </section>
-<section id="state">
+<section id="projects">
 <h2>📁 Acceso al proyecto</h2>
 <p>Puedes acceder al proyecto siguiendo los pasos:</p>
 <ol>
@@ -76,7 +76,7 @@ Descarga la libreria Gson 2.10.1 en formato JAR e integralo en IntelliJ Idea <a 
 <li>Ejecuta el main y verás la magia.</li>
 </ol>
 </section>
-<section id="state">
+<section id="technologies">
 <h2>✌️ Tecnología utilizadas</h2>
 <p>Las tecnologías utilizadas en el proyecto:</p>
 <h3 align="center">
@@ -88,6 +88,15 @@ Descarga la libreria Gson 2.10.1 en formato JAR e integralo en IntelliJ Idea <a 
 <img width="400px" src="https://www.exchangerate-api.com/img/hr-logo-2022-ldpi-rc.png" alt="">
 </h3>
 </div>
+</section>
+<section id="technologies">
+<h2>🧔 Autor del proyecto</h2>
+<h3 style="padding: 0; margin: 0">
+<img src="https://is.zobj.net/image-server/v1/images?r=xpkYHwwOIxhk_pEoy6ZnYaz-YRzfgqPB9wXTTjiignLhgMaLuTLxXstgsROun1hZwyixkHRvjHPXOpweibr1cMs-5nHG-WSjyoIN4t1wiJwPiVBkm9JW5OKbGwxZkoE1zuY085yKqhHIPY9xmlm5-BrcoJQi17z2ZjPypxv5eyaI1sFB4k6uTtCpdq2Cp0M6_E3NIyTYo-Jf-OJruWQIMTUzHZgWxhqncttSaA" alt="Imagen del autor, gato sonriente" width="50px" height="50px" style="object-fit: cover"/>
+</h3>
+<a href="https://github.com/KonectaPe/KonectaPe" target="_blank">
+Deyver JM
+</a>
 </section>
 </main>
 <footer>
