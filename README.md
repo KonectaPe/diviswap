@@ -82,7 +82,8 @@ Descarga la libreria Gson 2.10.1 en formato JAR e integralo en IntelliJ Idea <a 
 <h3 align="center">
 <img width="400px" src="https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png" alt="">
 </h3>
-<div style="background-color: white">
+<div style="background-color: 
+#ffffff">
 <h3 align="center">
 <img width="400px" src="https://www.exchangerate-api.com/img/hr-logo-2022-ldpi-rc.png" alt="">
 </h3>
