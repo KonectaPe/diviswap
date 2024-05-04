@@ -45,7 +45,7 @@
 </ul>
 <section id="description">
 <h2>🚀 Descripción del proyecto</h2>
-<p>Este proyecto es un desafio propuesto por Alura Latam Challenges, nuestro conversor de monedas <strong>DiviSwap</strong> realiza solicitudes a una API de tasas de cambio, filtra y muestra las monedas de interés para el usuario según la opción seleccionada en el menú de la aplicación de consola. Las monedas soportadas al momento incluyen el dolár (USD), peso argentino (ARS), real brasileño (BRL), peso colombiano (COP)</p>
+<p>Este proyecto es un desafío propuesto por Alura Latam Challenges, nuestro conversor de monedas <strong>DiviSwap</strong> realiza solicitudes a una API de tasas de cambio, filtra y muestra las monedas de interés para el usuario según la opción seleccionada en el menú de la aplicación de consola. Las monedas soportadas al momento incluyen el dolár (USD), peso argentino (ARS), real brasileño (BRL), peso colombiano (COP)</p>
 </section>
 <section id="state">
 <h2>✔️ Estado del proyecto</h2>
@@ -92,7 +92,7 @@ Descarga la libreria Gson 2.10.1 en formato JAR e integralo en IntelliJ Idea <a 
 <section id="technologies">
 <h2>🧔 Autor del proyecto</h2>
 <h3 style="padding: 0; margin: 0">
-<img src="https://is.zobj.net/image-server/v1/images?r=xpkYHwwOIxhk_pEoy6ZnYaz-YRzfgqPB9wXTTjiignLhgMaLuTLxXstgsROun1hZwyixkHRvjHPXOpweibr1cMs-5nHG-WSjyoIN4t1wiJwPiVBkm9JW5OKbGwxZkoE1zuY085yKqhHIPY9xmlm5-BrcoJQi17z2ZjPypxv5eyaI1sFB4k6uTtCpdq2Cp0M6_E3NIyTYo-Jf-OJruWQIMTUzHZgWxhqncttSaA" alt="Imagen del autor, gato sonriente" width="50px" height="50px" style="object-fit: cover"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHloGjvQT61AIkRXNYG18j8G8_6Sm5yblJwh5bUuMWg&s" alt="Imagen del autor, gato sonriente" width="50px" height="50px" style="object-fit: cover"/>
 </h3>
 <a href="https://github.com/KonectaPe/KonectaPe" target="_blank">
 Deyver JM
