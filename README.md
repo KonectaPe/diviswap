@@ -77,7 +77,7 @@ Descarga la libreria Gson 2.10.1 en formato JAR e integralo en IntelliJ Idea <a 
 </ol>
 </section>
 <section id="technologies">
-<h2>✌️ Tecnología utilizadas</h2>
+<h2>✌️ Tecnologías utilizadas</h2>
 <p>Las tecnologías utilizadas en el proyecto:</p>
 <h3 align="center">
 <img width="400px" src="https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png" alt="">
