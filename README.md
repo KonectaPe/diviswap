@@ -63,6 +63,27 @@
 </ol>
 <img src="./images/diviswap.gif" alt="Funcionalidades de diviswap, conversión de monedas e historial de conversiones">
 </section>
+<section id="state">
+<h2>📁 Acceso al proyecto</h2>
+<p>Puedes acceder al proyecto siguiendo los pasos:</p>
+<ol>
+<li>Clona el repositorio con git clone 
+<a href="#">https://github.com/KonectaPe/diviswap.git</a>
+</li>
+<li>
+Descarga la libreria Gson 2.10.1 en formato JAR e integralo en IntelliJ Idea <a href="">https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1</a>
+</li>
+<li>Ejecuta el main y verás la magia.</li>
+</ol>
+</section>
+<section id="state">
+<h2>✌️ Tecnología utilizadas</h2>
+<p>Las tecnologías utilizadas en el proyecto</p>
+<div align="center" style="display: flex; flex-direction: column; gap: 1.5rem; justify-content: center; align-items: center">
+<img width="400px" src="https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png" alt="">
+<img width="400px" src="https://www.exchangerate-api.com/img/hr-logo-2022-ldpi-rc.png" alt="">
+</div>
+</section>
 </main>
 <footer>
 </footer>
