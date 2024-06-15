@@ -37,7 +37,7 @@
 </a>
 </li>
 <li>
-<a href="#state" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
+<a href="#author" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
 <span>👍</span> 
 <span>Autor del proyecto</span>
 </a>
@@ -89,7 +89,7 @@ Descarga la libreria Gson 2.10.1 en formato JAR e integralo en IntelliJ Idea <a 
 </h3>
 </div>
 </section>
-<section id="technologies">
+<section id="author">
 <h2>🧔 Autor del proyecto</h2>
 <h3 style="padding: 0; margin: 0">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHloGjvQT61AIkRXNYG18j8G8_6Sm5yblJwh5bUuMWg&s" alt="Imagen del autor, gato sonriente" width="50px" height="50px" style="object-fit: cover"/>
